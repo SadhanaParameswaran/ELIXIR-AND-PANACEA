@@ -1,10 +1,10 @@
-# SLAC-2020
+#SLAC-2020
 This contains the project collaboration for SLAC 2020
 
-## PROJECT TITLE
+##PROJECT TITLE
 Exiler and Panacea
 
-## THEME
+##THEME
 Healthcare
 
-## DESCRIPTION
+##DESCRIPTION
